@@ -16,17 +16,18 @@ export const colorTokens = {
       1000: "#000000",
     },
     primary: {
-      50: "#E6FBFF",
-      100: "#CCF7FE",
-      200: "#99EEFD",
-      300: "#66E6FC",
-      400: "#33DDFB",
-      500: "#00D5FA",
-      600: "#00A0BC",
-      700: "#006B7D",
-      800: "#00353F",
-      900: "#001519",
+      50:  "#E3F1FA",  // very light shade
+      100: "#C8E3F5",  // light shade
+      200: "#91C7EC",  // lighter shade
+      300: "#5AABE2",  // light-mid shade
+      400: "#238FD9",  // medium-light shade
+      500: "#005EA3",  // primary color
+      600: "#004B82",  // slightly darker
+      700: "#003861",  // darker shade
+      800: "#002541",  // more dark
+      900: "#001220"   // darkest shade
     },
+    
   };
   
   // mui theme settings
