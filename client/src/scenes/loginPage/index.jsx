@@ -25,7 +25,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to Snapstream, the Social Media for Snappers!
+          Welcome to SnapStream, the Social Media for SnapStreamers!
         </Typography>
         <Form />
       </Box>
